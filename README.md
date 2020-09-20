@@ -1,4 +1,4 @@
-# Calculus I, MAT 221
-Materials for Calculus I, MAT 221
+# Linear Algebra, MAT 341
+Materials for Linear Algebra, MAT 341
 
-The [course website](https://xiuquan0418.github.io/teaching/MAT221/index.html)
+The [course website](https://xiuquan0418.github.io/teaching/MAT341/index.html)
